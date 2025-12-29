@@ -1,1 +1,8 @@
-
+index,Model,RMSLE
+6,Lasso Regression,0.9660763573333493
+5,Ridge Regression,0.9663236432931516
+4,Linear Regression,0.9663237446468237
+1,Moving Average (7),3.626092131110503
+2,Moving Average (14),3.6261277339343647
+3,Moving Average (28),3.6263234502373725
+0,Naive,3.6298227528085167
